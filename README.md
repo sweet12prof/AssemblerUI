@@ -26,5 +26,6 @@ UI for demonstration of MIPS assembler
 * With horizontal space, **Keep it to one space**, to avoid any bugs(Fixing it soon)
 * Load the asm file and hit compile/run
 * A hex file is generated in asm file directory after run
+* A sample asm file is included in the directory, to demonstrate the assembler at work.
   
   
